@@ -18,6 +18,9 @@ const messages = {
     invalidEmail:"Invalid email",
     passwordResetLink:"Password reset link sent successfully",
     fieldRequired:"### Field required",
+    Liked:"like Added",
+    UnLiked:"like Removed",
+    ratingLimit:"Rating must be between within limit"
   };
   
   module.exports = messages;
